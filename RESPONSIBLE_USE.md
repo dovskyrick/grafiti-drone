@@ -29,7 +29,7 @@ The DJI Flip is sold under the 250 g threshold. **Adding a mount, servo, battery
 
 | Region | What changes (our reading) | What to check |
 |---|---|---|
-| **EU (EASA)** | The C0 class label no longer applies once the drone is modified. The aircraft is treated as privately built and over 250 g, which in the Open category generally means **A3**: far from people and **150 m from residential, commercial, industrial or recreational areas**. Most urban murals will need **Specific-category** authorisation. | Operator registration, remote pilot competency, national authority guidance, Specific-category / PDRA options |
+| **EU (EASA)** | Reg. (EU) 2019/947 Art. 4 says Open-category drones must carry **no dangerous goods** and **drop no material**. A spray can (UN1950) breaks both, so **every outdoor flight with a can is Specific-category** and needs an operational authorisation from your national authority (SORA or PDRA). Indoor flights in enclosed buildings are generally outside scope. Portugal guide: [docs/PORTUGAL_PERMITS_HIL.md](docs/PORTUGAL_PERMITS_HIL.md) | Operator registration, A1/A3 + A2, insurance, Specific-category authorisation |
 | **UK (CAA)** | Similar logic. Over 250 g changes Operator ID / Flyer ID requirements and the operating subcategory. | CAA Drone and Model Aircraft Code, class-mark rules for modified drones |
 | **USA (FAA)** | Over 250 g requires **registration** and **Remote ID**. Commercial work falls under **Part 107**, and **14 CFR §107.36 prohibits carrying hazardous materials** (see §3). | Part 107 vs. recreational (49 USC 44809), waivers/exemptions, local and state rules |
 | **Elsewhere** | Assume rules exist until you've confirmed otherwise. | Your national civil aviation authority |
